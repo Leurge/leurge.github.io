@@ -1,5 +1,3 @@
-# Learning Contract
-
 In this subject we have been assigned a learning contract to complete. To my understanding this is a set of objectives that we would like to get out of the course and how we would go about completing them.
 
 Initially I was drawn to this subject because of the opportunity to be able to learn how to build my own data collecting device. It makes sense then that my first objective is to build my own data collecting device. In this case, the device is a material detection device, specifically used to sort recyclable materials. However this objective is quite ambitious and I have no experience in any circuitry prior to this studio so I will break it down into simpler and more achievable objectives.
@@ -11,6 +9,6 @@ Inherently, with hardware comes software. Secondly, I would like to learn more a
 Finally, the last objective is one that is related to the second; data. More specifically, how to upload the data from the device to the cloud and how to access the data from the cloud. Furthermore, I would like to see if I can spot out trends or patterns across the data. With regards to my project, it would seeing if I could spot a trend with certain materials for example if they are particular reflective compared to other materials. Learning Node.js and the MQTT messaging protocol is a great start to be able to accomplish this task. My device should be able to upload data to the cloud and another device should be able get data from the cloud to fulfil the final objective.\
 
 Summarised learning contract:
- [ ]  Build a sensor
- [ ]  Code the sensor
- [ ]  Upload data from the sensor to the cloud
+-  [ ]  Build a sensor
+-  [ ]  Code the sensor
+-  [ ]  Upload data from the sensor to the cloud
