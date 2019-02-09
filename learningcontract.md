@@ -1,3 +1,4 @@
+# Learning Contract
 In this subject we have been assigned a learning contract to complete. To my understanding this is a set of objectives that we would like to get out of the course and how we would go about completing them.
 
 Initially I was drawn to this subject because of the opportunity to be able to learn how to build my own data collecting device. It makes sense then that my first objective is to build my own data collecting device. In this case, the device is a material detection device, specifically used to sort recyclable materials. However this objective is quite ambitious and I have no experience in any circuitry prior to this studio so I will break it down into simpler and more achievable objectives.
