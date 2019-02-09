@@ -1,4 +1,0 @@
-#IoT Portfolio
-
-Learning contract.
-
