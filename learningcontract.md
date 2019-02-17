@@ -9,8 +9,21 @@ Inherently, with hardware comes software. Secondly, I would like to learn more a
 
 Finally, the last objective is one that is related to the second; data. More specifically, how to upload the data from the device to the cloud and how to access the data from the cloud. Furthermore, I would like to see if I can spot out trends or patterns across the data. With regards to my project, it would seeing if I could spot a trend with certain materials for example if they are particular reflective compared to other materials. Learning Node.js and the MQTT messaging protocol is a great start to be able to accomplish this task. My device should be able to upload data to the cloud and another device should be able get data from the cloud to fulfil the final objective.
 
-##Learning Contract
-
+###Learning Objectives
+ 1. Data analysis with python
+###Resources and Strategies
+ 1:  
+    - Watch tutorials on youtube.
+    - Use stackoverflow for troubleshooting
+    - Spend 4 hours each day on it
+###What is to be assessed
+1: 
+    - A graph that is of the sensor in this case light.
+    - Live graph plotting.
+###Criteria for assessment
+1:
+    - Successfully graph sensor data
+    - Try to graph live data
 
 
 Summarised learning contract:
