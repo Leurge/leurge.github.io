@@ -9,6 +9,10 @@ Inherently, with hardware comes software. Secondly, I would like to learn more a
 
 Finally, the last objective is one that is related to the second; data. More specifically, how to upload the data from the device to the cloud and how to access the data from the cloud. Furthermore, I would like to see if I can spot out trends or patterns across the data. With regards to my project, it would seeing if I could spot a trend with certain materials for example if they are particular reflective compared to other materials. Learning Node.js and the MQTT messaging protocol is a great start to be able to accomplish this task. My device should be able to upload data to the cloud and another device should be able get data from the cloud to fulfil the final objective.
 
+##Learning Contract
+
+
+
 Summarised learning contract:
 -  [ ]  Build a sensor
 -  [ ]  Code the sensor
